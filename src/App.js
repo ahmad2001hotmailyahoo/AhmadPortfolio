@@ -44,10 +44,10 @@ function App() {
                 <a href="#about" className='link'>About</a>
             </li>
             <li>
-                <a href="#projects" className='link'>Contact</a>
+                <a href="#" className='link'>Contact</a>
             </li>
             <li>
-                <a href="#" className='link'>Projects</a>
+                <a href="#projects" className='link'>Projects</a>
             </li>
         </ul>
     </nav>
