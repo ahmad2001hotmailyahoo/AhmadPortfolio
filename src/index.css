@@ -8,6 +8,25 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* utitly classes */
+.button-bar{
+  margin-top: 1rem;
+}
+
+.primary{
+  background-color: #4361ee;
+}
+
+.secondary{
+  background-color: #EF233C ;
+}
+
+.button{
+  margin: 0.2rem;
+  padding: 0.5rem;
+  color: white;
+  text-decoration: none;
 }
